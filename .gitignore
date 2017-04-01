@@ -1,2 +1,6 @@
 /node_modules
+<<<<<<< HEAD
 /bower_components
+=======
+.bower_components
+>>>>>>> f0464dd622813415e4277742d7b9e0864ac05373
