@@ -27,7 +27,7 @@
   },
   "scripts": {
     "dev": "webpack-dev-server --port 3000 --content-base src --inline --hot",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha ./test/test.js"
   },
   "author": "",
   "license": "ISC"
