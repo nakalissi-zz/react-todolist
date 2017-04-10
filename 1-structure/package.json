@@ -21,7 +21,10 @@
     "webpack": "^1.12.9",
     "webpack-dev-server": "^1.16.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha": "1.20.1",
+    "supertest": "0.13.0"
+  },
   "scripts": {
     "dev": "webpack-dev-server --port 3000 --content-base src --inline --hot",
     "test": "echo \"Error: no test specified\" && exit 1"
