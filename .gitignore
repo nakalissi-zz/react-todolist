@@ -3,3 +3,8 @@
 
 /2-router/node_modules
 /2-router/bower_components
+
+/3-flux/node_modules
+/4-redux/node_modules
+
+/node_modules
